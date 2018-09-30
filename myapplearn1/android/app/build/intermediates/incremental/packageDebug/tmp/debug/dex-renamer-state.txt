@@ -1,0 +1,4 @@
+#Tue Sep 04 18:49:15 IST 2018
+base.0=/Users/divine/Applications/programming/reactnativedev/myapplearn1/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
